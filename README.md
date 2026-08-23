@@ -1,5 +1,5 @@
 <h4>You all can test your all hacking on this lab using docker this project is just a prototype I have created for myself as a lab for testing but I loved it so much I thought to give this lab to public then i tested it after that I hosted on Vercel.</h4>
-<p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
+<p><a href="https://www.w3schools.com/">Visit Total-Coverage WAF Control Center!</a></p>
 <h1>🛡️A Vulnerable Web App for Penetrate testing it is a lab </h1>
 
 <h1>📜 Real-time Security Events</h1>
