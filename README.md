@@ -1,5 +1,5 @@
 <h4>You all can test your all hacking on this lab using docker this project is just a prototype I have created for myself as a lab for testing but I loved it so much I thought to give this lab to public then i tested it after that I hosted on Vercel.</h4>
-<p><a href="https://www.w3schools.com/">Visit Total-Coverage WAF Control Center!</a></p>
+<p><a href="https://sawaf-vulnerable-1.vercel.app/?_vercel_share=8cZ9CYa9SNZDhRAa5tfyLtFW0W0apOIp">Visit Total-Coverage WAF Control Center!</a></p
 <h1>🛡️A Vulnerable Web App for Penetrate testing it is a lab </h1>
 
 <h1>📜 Real-time Security Events</h1>
@@ -29,7 +29,7 @@ http://localhost:8080
 <h4>sawaf-vulnerable is not by copy you have to copy manually </h4>
 
 Test my Live vulnerable Web Application for Penetrate Testing <br>
-<p><a href="https://www.w3schools.com/">Visit Total-Coverage WAF Control Center!</a></p>
+<p><a href="https://sawaf-vulnerable-1.vercel.app/?_vercel_share=8cZ9CYa9SNZDhRAa5tfyLtFW0W0apOIp">Visit Total-Coverage WAF Control Center!</a></p
 <h4>Please Promote my lab </h4>
 
 <h1 align="center">Hi 👋, I'm aadi-12345678 Hacker</h1>
