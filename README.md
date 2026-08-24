@@ -27,6 +27,7 @@ chmod +x * && \
 sudo docker build -t my-html-site . && \
 sudo docker run -d -p 8080:80 my-html-site
 sudo docker pull aadityta/sawaf-vulnerable:latest
+sudo docker build -t aadityta/sawaf-vulnerable .
 sudo docker run -d -p 8080:80 --name sawaf-app aadityta/sawaf-vulnerable
 ```
 Then open:
