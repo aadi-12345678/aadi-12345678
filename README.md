@@ -2,7 +2,7 @@
 <p><a href="https://sawaf-vulnerable-1.vercel.app/?_vercel_share=8cZ9CYa9SNZDhRAa5tfyLtFW0W0apOIp">Visit Total-Coverage WAF Control Center!</a></p 
 <p><a href="https://hub.docker.com/r/aadityta/sawaf-vulnerable">Visit Image</a></p 
   ```bash                                                                               
-<p>sudo docker run -d -p 8080:80 --name sawaf-app aadityta/sawaf-vulnerable</p>
+sudo docker run -d -p 8080:80 --name sawaf-app aadityta/sawaf-vulnerable
 ```
 <h1>🛡️A Vulnerable Web App for Penetrate testing it is a lab </h1>
 I have made with love 
