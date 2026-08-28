@@ -2,7 +2,6 @@
 <p><a href="https://sawaf-vulnerable-1.vercel.app/?_vercel_share=8cZ9CYa9SNZDhRAa5tfyLtFW0W0apOIp">Visit Total-Coverage WAF Control Center!</a></p 
 <p><a href="https://hub.docker.com/r/aadityta/sawaf-vulnerable">Visit Image</a></p 
 Here’s everything combined into one command block:
-
 ```bash
 sudo docker pull aadityta/sawaf-vulnerable:latest
 sudo docker run -dp 8080:80 aadityta/sawaf-vulnerable
