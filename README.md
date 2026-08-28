@@ -9,6 +9,9 @@ sudo docker run -dp 8080:80 aadityta/sawaf-vulnerable
 sudo docker ps
 sudo  docker stop container id
 ```
+Then open:
+browse
+http://localhost:8080
 <h1>🛡️A Vulnerable Web App for Penetrate testing it is a lab </h1>
 I have made with love 
 <h1>📜 Real-time Security Events</h1>
