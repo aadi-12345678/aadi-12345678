@@ -8,7 +8,7 @@ sudo docker pull aadityta/sawaf-vulnerable:latest
 sudo docker run -dp 8080:80 aadityta/sawaf-vulnerable
 sudo docker ps
 sudo  docker stop container id
-``` <br>
+```
 Then open:
 browse
 http://localhost:8080
