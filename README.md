@@ -5,7 +5,9 @@ Here’s everything combined into one command block:
 
 ```bash
 sudo docker pull aadityta/sawaf-vulnerable:latest
-sudo docker run -dp 8080:80 aadityta/sawaf-vulnerable
+sudo docker run -d -p 8080:80 aadityta/sawaf-vulnerable
+sudo docker run --rm -it -p 8080:80 aadityta/sawaf-vulnerable:latest
+sudo docker run --rm -p 8080:80 aadityta/sawaf-vulnerable
 sudo docker ps
 sudo  docker stop container id
 ```
