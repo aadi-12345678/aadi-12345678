@@ -114,5 +114,5 @@ Sawaf is an Arabic surname derived from the root word saf meaning to be pure or 
 </blockquote>
 
 <blockquote>
-If you want to enhance the features you all can edit this web app by downloading the indx.html or text file 
+If you want to enhance the features you all can edit this web app by downloading the indx.text only file 
 </blockquote>
