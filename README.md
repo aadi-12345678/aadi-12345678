@@ -116,3 +116,7 @@ Sawaf is an Arabic surname derived from the root word saf meaning to be pure or 
 <blockquote>
 If you want to enhance the features you all can edit this web app by downloading the indx.text only file 
 </blockquote>
+
+<blockquote>
+I'm doing a (free) web application firewall lab (just a hobby, won't be big and professional like OWASP) for Docker-enabled Windows, Linux, and Mac clones. This has been brewing since my original Python CP Guard build, and is starting to get ready.
+</blockquote>
