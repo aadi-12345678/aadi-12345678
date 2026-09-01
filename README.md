@@ -120,3 +120,7 @@ If you want to enhance the features you all can edit this web app by downloading
 <blockquote>
 I'm doing a (free) web application firewall lab (just a hobby, won't be big and professional like OWASP) for Docker-enabled Windows, Linux, and Mac clones. This has been brewing since my original Python CP Guard build, and is starting to get ready.
 </blockquote>
+
+<blockquote>
+You can test all payloads on Active Threat Signatures names given below. 
+</blockquote>
