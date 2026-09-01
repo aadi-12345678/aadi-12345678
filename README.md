@@ -112,3 +112,7 @@ When I created this vulnerable lab I created it in Python and named as CP Guard 
 <blockquote>
 Sawaf is an Arabic surname derived from the root word saf meaning to be pure or to be clear
 </blockquote>
+
+<blockquote>
+If you want to enhance the features you all can edit this web app by downloading the indx.html file 
+</blockquote>
