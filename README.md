@@ -124,3 +124,7 @@ I'm doing a (free) web application firewall lab (just a hobby, won't be big and 
 <blockquote>
 You can test all payloads on Active Threat Signatures names given below. 
 </blockquote>
+
+<blockquote>
+This lab can give direct challenge to OWASP Juice Shop. 
+</blockquote>
