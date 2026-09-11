@@ -129,6 +129,6 @@ You can test all payloads on Active Threat Signatures names given below.
 This lab can give direct challenge to OWASP Juice Shop. 
 </blockquote>
 
-<blockquote> ]
+<blockquote>
   https://pastebin.com/FFmm99XY
 </blockquote>
