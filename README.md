@@ -136,5 +136,5 @@ This lab can give direct challenge to OWASP Juice Shop.
 
 <blockquote>
  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p><a href="[https://pastebin.com/FFmm99XY](https://pastebin.com/Z3HB3VLE)">Visit my leaked source code!</a></p  
+<p><a href="https://pastebin.com/Z3HB3VLE">Visit my leaked source code!</a></p  
 </blockquote>
