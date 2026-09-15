@@ -146,3 +146,9 @@ This lab can give direct challenge to OWASP Juice Shop.
  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p><a href="https://github.com/aadi-12345678">Visit Aadityta GitHub page</a></p>  
 </blockquote>
+
+<blockquote>
+ <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>"Security is not a product, but a process."
+— "Bruce Schneier"
+</blockquote>
